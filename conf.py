@@ -131,8 +131,8 @@ html_theme_options = {
     #'canonical_url': 'http://scicomp.aalto.fi/'
     }
 html_context = {'display_github': True,
-                'github_user': 'youngxhelsinki',
-                'github_repo': 'cs-cheatsheet',
+                'github_user': 'supershinyeyes',
+                'github_repo': 'health-cheatsheet',
                 'github_version': 'master/',
                }
 
