@@ -75,6 +75,7 @@ non-small cell lung cancer (NSCLC)
 - Stage 3 NSCLC: You may require a combination of chemotherapy, surgery, and radiation treatment.
 - Stage 4 NSCLC is particularly hard to cure. Options include surgery, radiation, chemotherapy, targeted therapy, and immunotherapy.
 
+--------
 
 Life expectancy
 ===============
@@ -92,6 +93,19 @@ five-year survival rates for NSCLC by stage
 Small-cell lung cancer
 ######################
 Small-cell lung cancer (SCLC) is very aggressive. For limited stage SCLC, the five-year survival rate is 14 percent. Median survival is 16 to 24 months. Median survival for extensive stage SCLC is six to 12 months.
+
+-----------
+
+
+Video materials from Asan
+=========================
+.. figure:: /images/lung_cancer/asan_video.png
+   :align: center
+   :alt: alternate text
+   :figclass: align-center
+
+`http://www.amc.seoul.kr/asan/search/search.do?kwd=폐암&category=MEDIA&pageNum=1 <http://www.amc.seoul.kr/asan/search/search.do?kwd=폐암&category=MEDIA&pageNum=1>`_
+
 
 
 .. rubric:: Reference
