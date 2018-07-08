@@ -7,14 +7,12 @@
 Health Cheatsheet
 =================
 
-This documentation is a public note of any topic regards computer science. May it be Machine Learning, Discrete Mathematics or Bayesian Data Analysis.
-
-These docs are mainly maintained by `Seyoung Park <http://www.seyoung.xyz>`_.
+A health diary.
 
 .. toctree::
    :maxdepth: 3
 
-   subjects/lung_cancer
+   subjects/lung/index
 
 
 Metadocs
