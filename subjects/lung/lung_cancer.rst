@@ -66,9 +66,9 @@ Small-cell lung cancer
 Small-cell lung cancer (SCLC) has two main stages. In the limited stage, cancer is found in only one lung or nearby lymph nodes on the same side of the chest.
 
 
-Adenocarcinoma (선암, 腺癌)
-###########################
-선(腺)을 구성하고 있는 세포에서 발생하는 암.
+Adenocarcinoma
+##############
+선암(腺癌); 선(腺)을 구성하고 있는 세포에서 발생하는 암.
 이 형의 암은 위 ·장 ·기관지 ·자궁(체부) ·담낭 등의 점막을 비롯하여, 전립선 ·고환 ·난소 ·갑상선 ·이자의 선 조직이나 배설관에서 발생한다. 암 중에서 가장 많이 발생하는 위암의 대부분이 이 형을 나타내지만, 자궁경관암의 대부분은 편평상피암(扁平上皮癌)이고 선암은 드물다. 양성인 선종(腺腫)과 비슷하며 악성을 나타내는 것도 있는데 이것은 특히 악성선종이라 한다. [1]_
 
 .. figure:: /images/lung_cancer/adenocarcinoma.jpg

@@ -3,17 +3,21 @@ Chemotherapy
 ============
 
 
-Targeted cancer therapy(표적항암제)
-===================================
+Targeted cancer therapy
+=======================
+표적항암제
 
-상피세포 성장인자 수용체 (EGFR) 억제 약제
-#########################################
+Epidermal Growth Factor Receptor(EGFR) inhibitors
+#################################################
+`상피세포 성장인자 수용체 억제 약제 <https://www.cancer.org/cancer/non-small-cell-lung-cancer/treating/targeted-therapies.html>`_
+
 - 이레사
 - 타세바
 - 지오트립
 
-PD1/PD-L1 억제 약제 (면역 표적항암제)
-######################################
+PD1/PD-L1 inhibitors
+####################
+`면역 표적항암제 억제 약제 <https://nyulangone.org/conditions/non-small-cell-lung-cancer/treatments/chemotherapy-targeted-drugs-for-lung-cancer>`_
 
 PD-1
 ^^^^
