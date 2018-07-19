@@ -13,6 +13,7 @@ A health diary.
    :maxdepth: 3
 
    subjects/lung/index
+   subjects/hospital_visits
 
 
 Metadocs
