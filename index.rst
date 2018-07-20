@@ -14,6 +14,7 @@ A health diary.
 
    subjects/lung/index
    subjects/hospital_visits
+   subjects/health_condition_log
 
 
 Metadocs
