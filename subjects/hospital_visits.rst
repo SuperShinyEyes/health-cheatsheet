@@ -41,3 +41,39 @@ Prognosis
 - 수술 불가능. 항암치료로 상태가 호전되어 유지되는 것이 최상. 
 - 직장암이 전이된 환자의 평균 생존기간 2 ~ 2.5년. The shape of the distribution is **Beta** NOT normal.
 
+----
+
+2018 July 20th Fri. @ Samsung chemoport insert surgery
+======================================================
+
+- 항생제 반응 좋음. 
+- 수면마취: 수면제 + 진통제. 진통을 느낄 수 있음. 전신마취 아님.
+- 10시 15분 수술실 입장
+
+Operation risks
+###############
+- 혈관 기형이 있을 경우 기흉 생길 수 있음. 정말 드뭄. 
+
+
+Q&A
+###
+- When can she take shower?
+
+	- Anytime but don't put much force on the port.
+
+- Is there a risk of infection via the chemoport?
+
+	- Yes. Be gentle with the chemoport. Let the glue between the port and skin stay until the wound has healed. No sauna, no swimming
+
+- When can she remove the tube?
+
+	- After all the chemotherapies
+
+- What to do when the skin around the chemoport gets inflamed? Or in any emergency?
+
+	- Call Samsung emergency room
+
+- Where can she remove the needle after the chemo has all been consumed?
+
+	- At a near hospital
+
