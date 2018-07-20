@@ -317,8 +317,4 @@ epub_author = 'Aalto Science-IT'
 # https://github.com/rtfd/sphinx_rtd_theme/issues/117
 def setup(app):
     #app.add_javascript("custom.js")
-    app.add_stylesheet("theme_overrides.css")
-
-# -- text color ---------------
-# https://stackoverflow.com/questions/3702865/sphinx-restructuredtext-set-color-for-a-single-word
-rst_epilog = "\n.. include:: .special.rst\n"
+    app.add_stylesheet("theme_overrides.css")\

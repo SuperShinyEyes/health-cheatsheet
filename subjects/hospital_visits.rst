@@ -50,12 +50,13 @@ Prognosis
 - 수면마취: 수면제 + 진통제. 진통을 느낄 수 있음. 전신마취 아님.
 - 10시 15분 수술실 입장
 
-.. figure:: /images/hospital_visits/chemoport_location_mark.JPG
-   :align: center
-   :alt: alternate text
-   :figclass: align-center
+.. figure:: /images/hospital_visits/chemoport_location_mark.jpg
+    :scale: 10%
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
 
-   < Chemoport implant location marked >
+    < Chemoport implant location marked >
 
 
 Operation risks
