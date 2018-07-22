@@ -6,7 +6,7 @@
 Mom, kill cancer
 ================
 
-This is a medical log of my mom's fight against her lung cancer. The doctor assumes it is a transferred cancer from her old rectal cancer(stage 1) which she cured 4 years ago through surgery.
+This is a medical log of my mom's fight against her distant recurrent rectal cancer in her lungs. The doctor assumes it is from her old rectal cancer(stage 1) which she cured 4 years ago through surgery.
 
 Note for my coauthors in my family
 ==================================
@@ -22,9 +22,11 @@ Note for my coauthors in my family
 .. toctree::
    :maxdepth: 3
 
-   src/lung/index
+   src/about_cancer/index
    src/hospital_visits
    src/health_condition_log
+   src/nutrition
+   src/resources
    src/contacts
 
 

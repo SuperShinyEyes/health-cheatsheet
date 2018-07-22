@@ -14,6 +14,9 @@ Tests done
 
 2018 July 12th Thu. @ Samsung Dr. Im Ho Young
 =============================================
+
+`혈액종양내과 임호영 교수 <http://www.samsunghospital.com/home/reservation/common/doctorProfile.do?DR_NO=316>`_
+
 - 전이성 폐암 4기
 - 4년 전 직장암 1기. 전이될 수준 아니었음.
 - PET, 대장 내시경 검사 다른 전이없는 것 같음.
