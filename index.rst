@@ -2,9 +2,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-================
-Mom, kill cancer
-================
+=================
+Mom fights cancer
+=================
 
 This is a medical log of my mom's fight against her distant recurrent rectal cancer in her lungs. The doctor assumes it is from her old rectal cancer(stage 1) which she cured 4 years ago through surgery.
 

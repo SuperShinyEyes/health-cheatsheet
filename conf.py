@@ -48,7 +48,7 @@ source_suffix = ['.rst', '.ipynb']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Mom, kill cancer'
+project = u'Mom fights cancer'
 copyright = u'2018, Family'
 author = u'Family'
 
@@ -219,7 +219,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'MomKillCancer'
+htmlhelp_basename = 'MomFightsCancer'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -271,7 +271,7 @@ latex_elements = {
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'MomKillCancer', u'Mom, kill cancer',
+    (master_doc, 'MomFightsCancer', u'Mom fights cancer',
      [author], 1)
 ]
 
@@ -285,8 +285,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'MomKillCancer', u'Mom, kill cancer',
-     author, 'MomKillCancer', 'One line description of project.',
+    (master_doc, 'MomFightsCancer', u'Mom fights cancer',
+     author, 'MomFightsCancer', 'One line description of project.',
      'Miscellaneous'),
 ]
 
@@ -303,8 +303,8 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 # -- Options for Epub output -------------------------------------------
-epub_basename = 'MomKillCancer'
-epub_title = 'Mom, kill cancer'
+epub_basename = 'MomFightsCancer'
+epub_title = 'Mom fights cancer'
 epub_author = 'Family'
 
 
