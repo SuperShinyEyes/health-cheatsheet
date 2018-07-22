@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# Triton user guide documentation build configuration file, created by
-# sphinx-quickstart on Thu Jun 15 12:18:55 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -50,9 +48,9 @@ source_suffix = ['.rst', '.ipynb']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Health Cheatsheet'
-copyright = u'2018, Seyoung Park'
-author = u'Seyoung Park'
+project = u'Mom, kill cancer'
+copyright = u'2018, Family'
+author = u'Family'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -82,7 +80,7 @@ language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build', '**/.ipynb_checkpoints']
+exclude_patterns = ['_build', '**/.ipynb_checkpoints', '**/debug.ipynb']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -129,13 +127,12 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_theme_options = {
     'display_version': False,
     #'navigation_depth': 3,
-    #'canonical_url': 'http://scicomp.aalto.fi/'
     }
-html_context = {'display_github': True,
-                'github_user': 'supershinyeyes',
-                'github_repo': 'health-cheatsheet',
-                'github_version': 'master/',
-               }
+# html_context = {'display_github': True,
+#                 'github_user': '',
+#                 'github_repo': '',
+#                 'github_version': 'master/',
+#                }
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -222,7 +219,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Tritonuserguidedoc'
+htmlhelp_basename = 'MomKillCancer'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -243,10 +240,10 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'AaltoScicomp.tex', u'Aalto scientific computing guide',
-     u'Aalto Science-IT', 'manual'),
-]
+# latex_documents = [
+#     (master_doc, '.tex', u'',
+#      u'', 'manual'),
+# ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
@@ -274,7 +271,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'tritonuserguide', u'Triton user guide Documentation',
+    (master_doc, 'MomKillCancer', u'Mom, kill cancer',
      [author], 1)
 ]
 
@@ -288,8 +285,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Tritonuserguide', u'Triton user guide Documentation',
-     author, 'Tritonuserguide', 'One line description of project.',
+    (master_doc, 'MomKillCancer', u'Mom, kill cancer',
+     author, 'MomKillCancer', 'One line description of project.',
      'Miscellaneous'),
 ]
 
@@ -306,9 +303,9 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 # -- Options for Epub output -------------------------------------------
-epub_basename = 'AaltoScicomp'
-epub_title = 'Aalto scientefic computing guide'
-epub_author = 'Aalto Science-IT'
+epub_basename = 'MomKillCancer'
+epub_title = 'Mom, kill cancer'
+epub_author = 'Family'
 
 
 # -- Own options -------------------------------------------------------

@@ -2,34 +2,11 @@
 About these docs
 ================
 
-These docs are literally my digitized master studies and Aalto University.
-I make notes about courses I take. Much content is brought from somewhere
-else such as blogs, Stackoverflow, Wikipedia and etc. I try to be strict
-with citation as much as possible. You may fork it or do whatever you may
-want to do.
-
-The structure of this docs is forked from Aalto University CS-IT documentation
-page, http://scicomp.aalto.fi. I work there.
 
 Contributing
 ~~~~~~~~~~~~
 
-This documentation is Open Source (CC-BY 4.0), and we welcome
-contributions from the Aalto community.  The project is run on Github
-(https://github.com/AaltoScienceIT/triton-docs).
-
-To contribute, you can always use the normal Github contribution
-mechanims: make a pull request or comments.  If you are at Aalto, you
-can also get direct write access.  Make a github issue, then contact
-us in person/by email for us to confirm.
-
-**The worst contribution is one that isn't made.** Don't worry about
-making things perfect: since this is in version control, we track all
-changes and will just fix anything that's not perfect.  This is also
-true for formatting errors - if you can't do ReStructudedText
-perfectly, just do your best (and pretend it's markdown because all
-the basics are similar).
-
+This documentation is Open Source (CC-BY 4.0).
 Contributing gives consent to use content under the licenses (CC-BY
 4.0 or CC0 for examples).
 
@@ -38,8 +15,7 @@ Requirements and building
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The only software needed is Sphinx: Debian package
-``python-sphinx``, : PyPI: ``python-sphinx``.  It is already installed
-on Aalto workstations.
+``python-sphinx``, : PyPI: ``python-sphinx``.
 
 To build the docs, run ``make html``.
 
