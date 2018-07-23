@@ -129,3 +129,162 @@ Cost
 
 2018 July 23rd Mon. @ Samsung. First chemo prescription
 =======================================================
+
+흉부 X-Ray 촬영.
+
+Chemotherapy
+############
+
+Chemos and therapy methods
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- FOL-F-IRI:
+
+    - Irinotecan (이리노테칸): 첫날 2시간 정맥주사
+    - Leucovorin (류코보린): 첫날 2시간 정맥주사
+    - 5-FU: 첫날부터 46시간 동안 정맥주사
+
+위의 항암물질을 2주간격으로 시행; 2박3일 치료후 11일간 휴식.
+
+오심/구토를 예방하기 위해 진토제 투여됐음. 먹는 진토제는 수요일까지만. 그 후에는 심할 경우에만 보조 진토제 복용.
+
+*8월 7일부터 유전자 검사 판독결과를 토대로 표적항암치료 시작.*
+
+Adverse effects
+^^^^^^^^^^^^^^^
+- 오심/구토, 식욕부진:
+    
+    - To do
+
+        - 부드럽고 소화 잘 되는 음식
+        - 하루 5~6회 정도 나누어 소량씩
+        - 시원한 음식
+        - 얼음조각이나 무가당의 박하사탕 입에 물기.
+
+    - Not to do
+
+        - 식전후 1시간 이내에는 많은 양의 물 마시지 말기
+        - 식후 바로 눕지 말기
+        - 자극이 너무 강한 냄새 피하기
+
+- 설사:
+
+    - 급성
+
+    - 지연성
+
+        - **항암제 종료 후** 24시간 이후에 나타나며 치료에 의한 장 점막의 변화로 발생.
+        - 지사제(아레스탈정) 복용. 처음 2알 복용 -> 설사 횟수에 따라 1알씩 추가 복용. (하루 8알까지 가능, **3일 이상 복용하지 마세요**)
+
+- 구내염:
+    
+    - 증상 발생 시 2차 감염을 예방하기 위해 양치 후 클로르헥시딘 가글액(분홍색)으로 입안을 1분간 소독.
+    - 1일 4회 양치
+    - 1일 1회 구강 내 점막 상태를 관찰.
+    - 심해지면 의료진에게 상담. 
+    - 미지근하거나 시원한 음식
+    - 자극적인 음식 피하기
+    - 단백질과 비타민 풍부한 음식 먹기
+
+- 간기능 변화
+
+    - 민간요법(한약, 건강보조식품, 상황, 야채수프)은 간기능에 영향을 미쳐 항암치료를 중단해야 할 수도 있음.
+- 탈모
+
+    - 항암치료 후 2~3주 내에 시작
+    - 파마와 염색은 6개월 동안 금지
+    - 치료 후 4~6주 후부터 회복
+
+- 피부변화: 
+
+    - 주사혈관부위, 손톱, 발톱에 색소침착 증가되어 피부색 검어지고 건조해 질 수 있음. 
+    - 장시간 자외선 노출 피하기. 
+    - 긴 소매 옷, 창이 넓은 모자 사용
+
+- 골수기능(조혈기능) 억제: 
+
+    - 백혈구, 적혈구, 혈소판 등의 혈액 수치가 저하되어 균 감염에 대한 저항력이 감소되고 빈혈 및 출혈 증상이 발생할 수 있음.
+
+    - **38도 이상의 고열이 있는 경우 균 감염 발생 의심. GO TO AN ER**. 
+    - **NEVER take 해열제**
+
+.. figure:: /images/hospital_visits/number_of_blood_cells.jpeg
+    :scale: 30%
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+
+    < 골수기능 저하 시 혈액세포수 감소할 수 있음 >
+
+- 백혈구 감소와 감염
+
+    - 세수, 샤워, 목욕으로 청결 유지, 보습제 바르기.
+
+- 혈소판 감소와 출혈
+
+    - 증상:
+
+        - 여러 군데 멍이 들어 있는 경우
+        - 고춧가루 뿌려 놓은 듯한 붉은 반점이 생기는 경우
+        - 대소변에 혈흔
+        - 잇몸 출혈, 코피
+        - 구토시 출혈
+
+- 적혈구 감소와 빈혈
+
+문의사항: 02-3410-3000
+
+Nutrition education
+###################
+
+- There's nothing you must avoid except 민간요법/건강보조식품. Eat sensibly and enjoy your meal
+- Western food is as fine as Oriental. Don't eat Paris Baguette and etc. as dessert as it makes you fat.
+- 외식 ok
+- 항암 시작하고 3일간 속 안 좋을 수도.
+- 누릉지 좋아요.
+
+Current state of mom
+^^^^^^^^^^^^^^^^^^^^
+
+- 150.4cm
+- 57.5kg (**obese**. 121% of standard weight: 43~53kg)
+- 혈액검사 결과:
+
+    - 알부민(내장 단백질): 정상
+    - 헤모글로빈(철분): 정상
+    - 면역기능: 정상
+
+- 식사량 양호(권장량의 94%)
+- 영양상태 양호
+
+.. figure:: /images/hospital_visits/body_composition_analysis.png
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+
+    < Inbody body composition analysis on 2018 July 23rd. >
+
+.. figure:: /images/hospital_visits/recommended_meal.png
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+
+
+
+Alternative nutrition consumption
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+식사가 힘들 경우 영양보충음료로 식사 대체 가능. 2.5캔이 한끼 식사량(500kCal)
+
+종류:
+
+- 그린비아
+- 뉴케어
+- 메디웰
+- 메디푸드
+- 케어웰
+
+
+-------
+
+2018 Aug. 7th Tue @ Samsung. Dr. Lim & 2nd chemo & targeted therapy
+===================================================================
